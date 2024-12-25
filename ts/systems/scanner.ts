@@ -1,3 +1,6 @@
 export class Scanner {
-	colorQueries: ColorQuery[] = [];
+	
+
+
+	addQuery(color: number, repetition: number, limit: number, (results: V2))
 }
