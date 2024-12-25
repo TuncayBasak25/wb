@@ -1,0 +1,22 @@
+{
+  "name": "robotjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "install": "node-gyp rebuild"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "types": "./index.d.ts",
+  "gypfile": true,
+  "dependencies": {
+    "@types/node": "^22.10.2",
+    "bindings": "^1.5.0",
+    "nan": "^2.22.0",
+    "node-addon-api": "^8.3.0",
+    "typescript": "^5.7.2"
+  }
+}

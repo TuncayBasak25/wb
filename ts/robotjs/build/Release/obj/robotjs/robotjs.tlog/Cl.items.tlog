@@ -1,0 +1,10 @@
+C:\workspace\wubot\ts\robotjs\src\robotjs.cc;C:\workspace\wubot\ts\robotjs\build\Release\obj\robotjs\src\robotjs.obj
+C:\workspace\wubot\ts\robotjs\src\deadbeef_rand.c;C:\workspace\wubot\ts\robotjs\build\Release\obj\robotjs\src\deadbeef_rand.obj
+C:\workspace\wubot\ts\robotjs\src\mouse.c;C:\workspace\wubot\ts\robotjs\build\Release\obj\robotjs\src\mouse.obj
+C:\workspace\wubot\ts\robotjs\src\keypress.c;C:\workspace\wubot\ts\robotjs\build\Release\obj\robotjs\src\keypress.obj
+C:\workspace\wubot\ts\robotjs\src\keycode.c;C:\workspace\wubot\ts\robotjs\build\Release\obj\robotjs\src\keycode.obj
+C:\workspace\wubot\ts\robotjs\src\screen.c;C:\workspace\wubot\ts\robotjs\build\Release\obj\robotjs\src\screen.obj
+C:\workspace\wubot\ts\robotjs\src\screengrab.c;C:\workspace\wubot\ts\robotjs\build\Release\obj\robotjs\src\screengrab.obj
+C:\workspace\wubot\ts\robotjs\src\snprintf.c;C:\workspace\wubot\ts\robotjs\build\Release\obj\robotjs\src\snprintf.obj
+C:\workspace\wubot\ts\robotjs\src\MMBitmap.c;C:\workspace\wubot\ts\robotjs\build\Release\obj\robotjs\src\MMBitmap.obj
+C:\Users\Tuncay Basak\AppData\Roaming\npm\node_modules\node-gyp\src\win_delay_load_hook.cc;C:\workspace\wubot\ts\robotjs\build\Release\obj\robotjs\win_delay_load_hook.obj

@@ -1,0 +1,17 @@
+{
+  "name": "wubot",
+  "version": "1.0.0",
+  "description": "A simple bot script.",
+  "main": "ts/wubot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tuncay Basak",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^22.10.2",
+    "nan": "^2.22.0",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.7.2"
+  }
+}
